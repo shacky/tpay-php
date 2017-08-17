@@ -15,9 +15,9 @@ class FieldsConfigDictionary
     const PHONE = 'phone';
     const REQUIRED = 'required';
     const VALIDATION = 'validation';
-    const FLOAT = 'Float';
+    const FLOAT = 'float';
     const FILTER = 'filter';
-    const STRING = 'String';
+    const STRING = 'string';
     const ARR = 'array';
     const MAXLENGTH_128 = 'maxlength_128';
     const OPTIONS = 'options';
